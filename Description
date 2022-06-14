@@ -1,0 +1,11 @@
+Augmentation techniques used
+
+When applied, accuracy dropped sometimes, thus right techniques need to be done. 
+The essential information must not be diminished.
+
+Module used: torchvision.transforms.Compose(transforms)
+https://pytorch.org/vision/stable/generated/torchvision.transforms.Compose.html
+
+Evaluation metrics: 
+  Accuracy
+  Confusion Matrix
